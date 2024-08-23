@@ -1,1 +1,1 @@
-# Git desde cero rn EDteam
+# Git desde cero en EDteam
